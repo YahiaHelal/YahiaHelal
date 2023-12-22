@@ -25,24 +25,6 @@
 
 </div>
 
-<details align="center">
-	
-#### 📊 GitHub Stats
-	
-<table border="0" align="center">
-<tr border="0">
-<td width="60%" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=OmarMGaber&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555" width="100%" height="100%"></img><br>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OmarMGaber&theme=light&hide_border=true&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook" width="100%" height="100%"/>
-  
-  </td>
-</tr>
-</table>
-</details>
-<br>
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>

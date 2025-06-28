@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yahia Helal</h1>
 
 <p align="center">
-  <b>Senior Computer Science Student @ Alexandria University</b><br>
+  <b>Computer Science Graduate, Software engineering enthusiast</b><br>
   Interested in System Design • Distributed Systems • High-Performance Computing
 </p>
 

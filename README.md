@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yahia Helal</h1>
 
 <p align="center">
-  <b>Backend Engineer • Computer Science Graduate</b><br>
+  <b>Computer Science Graduate</b><br>
   Interested in System Design • Distributed Systems • High-Performance Computing
 </p>
 

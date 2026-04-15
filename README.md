@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science Graduate</b><br>
-  Interested in System Design • Distributed Systems • High-Performance Computing
+  Interested in Systems Internals & Performance Optimization
 </p>
 
 ---
